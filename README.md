@@ -15,6 +15,6 @@ Additionally, the program cannot handle entering multiple indexes at one time. P
 and then enter your successive indexes.  
 
 
-ENJOY. 
+ENJOY!!
 
-- S.Shenoi 
+ S.Shenoi 
